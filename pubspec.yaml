@@ -1,7 +1,7 @@
 name: system_ui_icons
 description: A growing collection of simple and consistent icons specifically designed for systems and products.
 version: 0.0.1
-homepage:
+homepage: https://github.com/rajyadavnp/system_ui_icons
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
